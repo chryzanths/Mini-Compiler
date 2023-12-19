@@ -2,6 +2,8 @@
 
 A mini compiler project created by **Jhan Ellen Atole, Chryzle Amualla,** and **Marianne Dale Garcia**
 
+See the test version here: https://github.com/chryzanths/Mini-Compiler-Testing
+
 A compiler is a program that translates source code into executable programs. The compilation process involves several phases;  lexical analysis, syntax analysis, semantic analysis, intermediate code generation, optimization, and code generation.
 
 As a part of our Final completion for the course "Theory of Programming Languages", we have created a compiler project that emulates the first 3 phases of a compiler; lexical analysis, syntax analysis, semantic analysis.
